@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Store
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: c94d1566c3b97f946b3c0094396dcf90, type: 3}
+    - {fileID: 2800000, guid: 4eb5790bc8fb9854a87be37719d94176, type: 3}
+    - {fileID: 2800000, guid: e23826b3b63085748a25df403c67b039, type: 3}
+    - {fileID: 2800000, guid: 0109c00a61a210541af976f61f9550f0, type: 3}
+    - {fileID: 2800000, guid: dc27c883f6adc2e4c8a8483bee124b5f, type: 3}
+    - {fileID: 2800000, guid: 8d111a816478e7849a9ae20a0020c140, type: 3}
+    - {fileID: 2800000, guid: ac2776c06b9f9ae488fd68c8a0b1c1e8, type: 3}
+    - {fileID: 2800000, guid: f09173626a277d44fbc723223d411153, type: 3}
+    - {fileID: 2800000, guid: cea1e98c79763b448a5a19f63278d13c, type: 3}
+    - {fileID: 2800000, guid: 8bcb669dc993f9b428e47a812f828d27, type: 3}
+    - {fileID: 2800000, guid: 09dc393cee9db1a4db069aa6f0351928, type: 3}
+    - {fileID: 2800000, guid: 7493b5a5b622a31459a12581d8c402d0, type: 3}
+    - {fileID: 2800000, guid: 4b1afea9283c04b4eb8691c886a59f31, type: 3}
+    - {fileID: 2800000, guid: f467796f7a4f0194285343bc2e9adcd9, type: 3}
+    - {fileID: 2800000, guid: ca1109faefc0f7640ab235ca28df560c, type: 3}
+    - {fileID: 2800000, guid: 6cb1592ad01fe9c479708aeb03a8b000, type: 3}
+    totalSpriteSurfaceArea: 12307032
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ac2776c06b9f9ae488fd68c8a0b1c1e8, type: 3}
+  - {fileID: 21300000, guid: 8d111a816478e7849a9ae20a0020c140, type: 3}
+  - {fileID: 21300000, guid: f09173626a277d44fbc723223d411153, type: 3}
+  - {fileID: 21300000, guid: dc27c883f6adc2e4c8a8483bee124b5f, type: 3}
+  - {fileID: 21300000, guid: e23826b3b63085748a25df403c67b039, type: 3}
+  - {fileID: 21300000, guid: 7493b5a5b622a31459a12581d8c402d0, type: 3}
+  - {fileID: 21300000, guid: c94d1566c3b97f946b3c0094396dcf90, type: 3}
+  - {fileID: 21300000, guid: 4b1afea9283c04b4eb8691c886a59f31, type: 3}
+  - {fileID: 21300000, guid: 0109c00a61a210541af976f61f9550f0, type: 3}
+  - {fileID: 21300000, guid: 6cb1592ad01fe9c479708aeb03a8b000, type: 3}
+  - {fileID: 21300000, guid: ca1109faefc0f7640ab235ca28df560c, type: 3}
+  - {fileID: 21300000, guid: 4eb5790bc8fb9854a87be37719d94176, type: 3}
+  - {fileID: 21300000, guid: 09dc393cee9db1a4db069aa6f0351928, type: 3}
+  - {fileID: 21300000, guid: cea1e98c79763b448a5a19f63278d13c, type: 3}
+  - {fileID: 21300000, guid: 8bcb669dc993f9b428e47a812f828d27, type: 3}
+  - {fileID: 21300000, guid: f467796f7a4f0194285343bc2e9adcd9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Button_swipe
+  - board_white
+  - Buy_button
+  - Board_top
+  - board_500_tok
+  - Slide_bar
+  - board_100_tok
+  - Special
+  - board_1000_tok
+  - "Without Ads \u20AC 0.40 per week"
+  - "Unlimited lives for 24 hours \u20AC 4.99"
+  - board_250_tok
+  - Road
+  - Close_button_store
+  - Lives
+  - Tokens_coin
+  m_RenderDataMap: {}
+  m_Tag: Store
+  m_IsVariant: 0

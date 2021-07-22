@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Car_8
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4159bb7b3d315a5459c0cdcbe15dd02c, type: 3}
+    - {fileID: 2800000, guid: 24d60b79e72f82c46a658bee4d53bfcc, type: 3}
+    - {fileID: 2800000, guid: 8dbe973f5565d5841bd903e959faae34, type: 3}
+    - {fileID: 2800000, guid: c5a5e98681e3fec408c2d02012f1a480, type: 3}
+    - {fileID: 2800000, guid: 0603abd4936480249925da1e2c51e9bb, type: 3}
+    - {fileID: 2800000, guid: 1e05e7f679d4db943a4e56f1848aedec, type: 3}
+    - {fileID: 2800000, guid: 6bd3c0b220f7cfd4a998235959b8fe74, type: 3}
+    - {fileID: 2800000, guid: fc60a08d725da804492d6bde1b0bbe6d, type: 3}
+    - {fileID: 2800000, guid: 6794fc02524787a46a75c0e7d08e4051, type: 3}
+    - {fileID: 2800000, guid: 9ca1d05b75df87542bea52bd0f7dca81, type: 3}
+    - {fileID: 2800000, guid: 33e28eee0b2f9ed418b512cbcef8fc22, type: 3}
+    - {fileID: 2800000, guid: 92c50353c3c96f049a6b7f7817907c9e, type: 3}
+    - {fileID: 2800000, guid: 3d62b6e419fb9ae4c8c4d06c366a1f23, type: 3}
+    - {fileID: 2800000, guid: 6d2db08e71176df4cad9c9a333ceeb66, type: 3}
+    totalSpriteSurfaceArea: 1827000
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6794fc02524787a46a75c0e7d08e4051, type: 3}
+  - {fileID: 21300000, guid: 6bd3c0b220f7cfd4a998235959b8fe74, type: 3}
+  - {fileID: 21300000, guid: 92c50353c3c96f049a6b7f7817907c9e, type: 3}
+  - {fileID: 21300000, guid: 0603abd4936480249925da1e2c51e9bb, type: 3}
+  - {fileID: 21300000, guid: 3d62b6e419fb9ae4c8c4d06c366a1f23, type: 3}
+  - {fileID: 21300000, guid: c5a5e98681e3fec408c2d02012f1a480, type: 3}
+  - {fileID: 21300000, guid: 1e05e7f679d4db943a4e56f1848aedec, type: 3}
+  - {fileID: 21300000, guid: 24d60b79e72f82c46a658bee4d53bfcc, type: 3}
+  - {fileID: 21300000, guid: 9ca1d05b75df87542bea52bd0f7dca81, type: 3}
+  - {fileID: 21300000, guid: 4159bb7b3d315a5459c0cdcbe15dd02c, type: 3}
+  - {fileID: 21300000, guid: fc60a08d725da804492d6bde1b0bbe6d, type: 3}
+  - {fileID: 21300000, guid: 6d2db08e71176df4cad9c9a333ceeb66, type: 3}
+  - {fileID: 21300000, guid: 33e28eee0b2f9ed418b512cbcef8fc22, type: 3}
+  - {fileID: 21300000, guid: 8dbe973f5565d5841bd903e959faae34, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - red_car_8
+  - purple_car_8
+  - white_car_8_b
+  - green_car_8
+  - yellow_car_8
+  - blue_car_8_b
+  - green_car_8_b
+  - black_car_8_b
+  - red_car_8_b
+  - black_car_8
+  - purple_car_8_b
+  - yellow_car_8_b
+  - white_car_8
+  - blue_car_8
+  m_RenderDataMap: {}
+  m_Tag: Car_8
+  m_IsVariant: 0

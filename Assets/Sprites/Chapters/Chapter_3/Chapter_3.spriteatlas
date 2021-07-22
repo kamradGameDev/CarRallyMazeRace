@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Chapter_3
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 11a9f88c3123ab24fa158ddd12d89611, type: 3}
+    - {fileID: 2800000, guid: d0a884be93b841844a4d4271d9fbe4fa, type: 3}
+    - {fileID: 2800000, guid: 99e4e9f050ece7343b8dcf404ad18efe, type: 3}
+    - {fileID: 2800000, guid: 776a8fc1b2304434c87373276f79b684, type: 3}
+    - {fileID: 2800000, guid: ab1a82a2962929c45885618fc48c8876, type: 3}
+    - {fileID: 2800000, guid: 8d9bf59347438e54692905f34876e175, type: 3}
+    - {fileID: 2800000, guid: 72eca2944c27f664fb5bc6b1304f4ea2, type: 3}
+    - {fileID: 2800000, guid: bfd71868b3aa89b40ba6ba1879dd1a38, type: 3}
+    totalSpriteSurfaceArea: 125000
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 99e4e9f050ece7343b8dcf404ad18efe, type: 3}
+  - {fileID: 21300000, guid: 776a8fc1b2304434c87373276f79b684, type: 3}
+  - {fileID: 21300000, guid: ab1a82a2962929c45885618fc48c8876, type: 3}
+  - {fileID: 21300000, guid: 8d9bf59347438e54692905f34876e175, type: 3}
+  - {fileID: 21300000, guid: 72eca2944c27f664fb5bc6b1304f4ea2, type: 3}
+  - {fileID: 21300000, guid: bfd71868b3aa89b40ba6ba1879dd1a38, type: 3}
+  - {fileID: 21300000, guid: 11a9f88c3123ab24fa158ddd12d89611, type: 3}
+  - {fileID: 21300000, guid: d0a884be93b841844a4d4271d9fbe4fa, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - grass_0
+  - grass_1
+  - tree
+  - tree_0
+  - tree_1
+  - tree_2
+  - tree_3
+  - grass
+  m_RenderDataMap: {}
+  m_Tag: Chapter_3
+  m_IsVariant: 0

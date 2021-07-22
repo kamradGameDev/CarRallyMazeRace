@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Menu
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f333157f97f8aad49909a00afda26d99, type: 3}
+    - {fileID: 2800000, guid: 2ef33b5cae4269b45a148603bac5d731, type: 3}
+    - {fileID: 2800000, guid: c8c7d4d2ed4d24a46972cf07bc20e1cd, type: 3}
+    - {fileID: 2800000, guid: 6f7224b25f6a43e41bde33a0ac9ce5a8, type: 3}
+    - {fileID: 2800000, guid: f9da6aed0c5896744b115cb65c1c12df, type: 3}
+    - {fileID: 2800000, guid: fa572478cf557a5459be41e765e0e6fd, type: 3}
+    - {fileID: 2800000, guid: 6bb72e8f189d44b4b942b5730c6c3e0f, type: 3}
+    totalSpriteSurfaceArea: 11551752
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6f7224b25f6a43e41bde33a0ac9ce5a8, type: 3}
+  - {fileID: 21300000, guid: c8c7d4d2ed4d24a46972cf07bc20e1cd, type: 3}
+  - {fileID: 21300000, guid: fa572478cf557a5459be41e765e0e6fd, type: 3}
+  - {fileID: 21300000, guid: 2ef33b5cae4269b45a148603bac5d731, type: 3}
+  - {fileID: 21300000, guid: f9da6aed0c5896744b115cb65c1c12df, type: 3}
+  - {fileID: 21300000, guid: f333157f97f8aad49909a00afda26d99, type: 3}
+  - {fileID: 21300000, guid: 6bb72e8f189d44b4b942b5730c6c3e0f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Start_screen
+  - Shop_button
+  - Start_screen_1
+  - Play_button
+  - Start_screen_0
+  - Garage_button
+  - Start_screen_2
+  m_RenderDataMap: {}
+  m_Tag: Menu
+  m_IsVariant: 0

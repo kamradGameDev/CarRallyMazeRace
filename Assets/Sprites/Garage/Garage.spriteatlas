@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Garage
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 319cf7f4702c4424ab546cf9de2d4ce7, type: 3}
+    - {fileID: 2800000, guid: 0e9be7ae31abd924dbfc3bdaa1a2cc3b, type: 3}
+    - {fileID: 2800000, guid: 2dab482d8254cbe479b0587078d8e724, type: 3}
+    - {fileID: 2800000, guid: d450bea51deeaf840b6cec8a4862bde5, type: 3}
+    - {fileID: 2800000, guid: fbb697b35d39a774a847ce0430be6347, type: 3}
+    - {fileID: 2800000, guid: 27cab7b5c19f75348ad0adb99eeeee3c, type: 3}
+    - {fileID: 2800000, guid: bca0be6f1a245c14e875d11b4c475107, type: 3}
+    - {fileID: 2800000, guid: 59d2dec4d49a0f14cbb95e646b9ba5c7, type: 3}
+    - {fileID: 2800000, guid: 026b0995139d6ff429b5087de3cbad86, type: 3}
+    - {fileID: 2800000, guid: 03b7a41590607ce4aacc5ce8f6964ccc, type: 3}
+    - {fileID: 2800000, guid: 0f3405da0ea55244898be868ca5bae27, type: 3}
+    - {fileID: 2800000, guid: 667a565090346824fa09d1be84ca5911, type: 3}
+    - {fileID: 2800000, guid: 6e100cb9944ccbf449dff9b236d55c24, type: 3}
+    - {fileID: 2800000, guid: a3d2c913e316f84429fd9d7b78ac73b6, type: 3}
+    - {fileID: 2800000, guid: 0b4daaa792bbd144793d35b143d30145, type: 3}
+    - {fileID: 2800000, guid: 76c4d051925bde347ae3da9a04777af1, type: 3}
+    - {fileID: 2800000, guid: fa0b2940ef8bb3140a68711f96076f10, type: 3}
+    totalSpriteSurfaceArea: 9900365
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fa0b2940ef8bb3140a68711f96076f10, type: 3}
+  - {fileID: 21300000, guid: 667a565090346824fa09d1be84ca5911, type: 3}
+  - {fileID: 21300000, guid: 76c4d051925bde347ae3da9a04777af1, type: 3}
+  - {fileID: 21300000, guid: a3d2c913e316f84429fd9d7b78ac73b6, type: 3}
+  - {fileID: 21300000, guid: fbb697b35d39a774a847ce0430be6347, type: 3}
+  - {fileID: 8276886452301046971, guid: 59d2dec4d49a0f14cbb95e646b9ba5c7, type: 3}
+  - {fileID: 21300000, guid: 319cf7f4702c4424ab546cf9de2d4ce7, type: 3}
+  - {fileID: 373453998861908207, guid: 03b7a41590607ce4aacc5ce8f6964ccc, type: 3}
+  - {fileID: 21300000, guid: 026b0995139d6ff429b5087de3cbad86, type: 3}
+  - {fileID: 21300000, guid: d450bea51deeaf840b6cec8a4862bde5, type: 3}
+  - {fileID: 21300000, guid: 27cab7b5c19f75348ad0adb99eeeee3c, type: 3}
+  - {fileID: 21300000, guid: 0b4daaa792bbd144793d35b143d30145, type: 3}
+  - {fileID: 21300000, guid: 6e100cb9944ccbf449dff9b236d55c24, type: 3}
+  - {fileID: 21300000, guid: 0f3405da0ea55244898be868ca5bae27, type: 3}
+  - {fileID: 21300000, guid: 2dab482d8254cbe479b0587078d8e724, type: 3}
+  - {fileID: 21300000, guid: 0e9be7ae31abd924dbfc3bdaa1a2cc3b, type: 3}
+  - {fileID: -7393723902062324366, guid: bca0be6f1a245c14e875d11b4c475107, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - green_board_cust
+  - Shell_button
+  - green_bar
+  - button_bar
+  - fuel_board
+  - Icon_shop_0
+  - Arrow
+  - Number_car_0
+  - live_board
+  - Coin_board
+  - heart
+  - button_green
+  - Shell_top
+  - Shadows
+  - Bg_garage
+  - Arrow_dashboard
+  - Icon_custom_0
+  m_RenderDataMap: {}
+  m_Tag: Garage
+  m_IsVariant: 0

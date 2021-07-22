@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Road
+  - Flag
+  - Enemy
+  - Clock
+  - Fuel
+  - Rudder
+  - RearViewMirror
+  - Carburetor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Road
+  - Obstacles
+  - Waypoint
+  - Obstacle
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1354284937
+    locked: 0
+  - name: Building
+    uniqueID: 428476325
+    locked: 0
+  - name: UI
+    uniqueID: 58271493
+    locked: 0
+  - name: LoadScreen
+    uniqueID: 3714814071
+    locked: 0
